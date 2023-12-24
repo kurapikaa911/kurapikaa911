@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kurapikaa911
-- 👀 I’m interested f khtk
-- 🌱 I’m currently learning idk
-- 💞️ I’m looking to collaborate on reddit
-- 📫 How to reach me hh
+- 👋 Hi,
 
 <!---
 kurapikaa911/kurapikaa911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
