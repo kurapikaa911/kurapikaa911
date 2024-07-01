@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👾
 
-![Anime Banner]([https://i.imgur.com/ZpY9bdU.jpeg](https://i.imgur.com/0fgzQHo.png))
+([https://i.imgur.com/ZpY9bdU.jpeg](https://i.imgur.com/0fgzQHo.png))
 
 ## 🛠️ My Tech Stack
 
