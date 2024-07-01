@@ -1,16 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Welcome to My GitHub Profile 👾
 
-Welcome to my GitHub profile! I'm a [Your Profession or Hobby], passionate about [Your Interests]. 
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Languages/Technologies/Skills]**
-- 👯 I’m looking to collaborate on **[Projects You Want to Collaborate On]**
-- 💬 Ask me about **[Topics You Are Knowledgeable About]**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+![Anime Banner](https://i.imgur.com/ZpY9bdU.jpeg)
 
 ## 🛠️ My Tech Stack
 
@@ -30,21 +20,19 @@ Welcome to my GitHub profile! I'm a [Your Profession or Hobby], passionate about
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kurapikaa911&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=kurapikaa911&theme=darkhub)
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kurapikaa911&theme=tokyonight)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kurapikaa911/)
 
 ## 📚 Latest Blog Posts
 
@@ -63,4 +51,3 @@ Welcome to my GitHub profile! I'm a [Your Profession or Hobby], passionate about
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. Have a great day! 😊
-
